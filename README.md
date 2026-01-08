@@ -1,7 +1,7 @@
 # ag-psd
 
 **ag-psd** is a JavaScript library for **reading and writing Photoshop PSD files**.  
-It works in **Node.js, browsers, and Web Workers** and follows Adobe’s PSD file specification.
+It works in **Node.js, browsers, and Web Workers** and follow Adobe’s PSD file specification.
 
 ---
 
